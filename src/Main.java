@@ -37,7 +37,7 @@ public class Main {
     }
 
     public static void fourthTask() {
-        System.out.println("\nЗадание 4");
+        System.out.println("\nЗадание 4");//4 Задание
         int bottles = 16;
         int startTime = 2;
         int bottlePerMin = bottles / startTime;
